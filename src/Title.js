@@ -4,9 +4,11 @@ import './Title.css';
 function Title() {
     return (
          <div className="Title">
-            <header>
+            <header >
                 <h1>Cassidy's Nailpolish</h1>
-                <small className="Title-Subtitle">Brought to you by Cassidy Sneed</small>
+                <a style={{textDecoration: 'none', color: 'white'}} href='/'>Home</a>
+                <a style={{marginLeft: 10, textDecoration: 'none', color: 'white'}} href='/about'>About</a>
+                {/* <small className="Title-Subtitle">Brought to you by Cassidy Sneed</small> */}
            </header>
          </div>
     )

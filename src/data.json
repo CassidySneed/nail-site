@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Nail 1",
+        "price": "$20.00",
+        "description": "test",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
+    },
+    {
+        "name": "Nail 2",
+        "price": "$2.00",
+        "description": "test",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
+    },
+    {
+        "name": "Nail 3",
+        "price": "$100.00",
+        "description": "test",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
+    }
+]
