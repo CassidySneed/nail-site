@@ -5,6 +5,8 @@ import Title from "./Title";
 import NPlist from "./NPlist";
 import About from "./About";
 import NDetail from "./NDetail";
+import Footer from "./Footer";
+
 
 
 function App() {
@@ -24,7 +26,7 @@ function App() {
           {/* <Route path="/details/:id" element={<NPetails />} /> */}
 
         </Routes>
-
+<Footer/>
       </div>
     </Router>
 

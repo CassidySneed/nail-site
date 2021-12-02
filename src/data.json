@@ -1,20 +1,268 @@
 [
     {
-        "name": "Nail 1",
-        "price": "$20.00",
-        "description": "test",
-        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
+        "name": "blanc",
+        "price": "$9.00",
+        "description": "a snowy white, perfect for French manicures.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/whites/095008000107/ESSIE-enamel-blanc-pack-shot.jpg?h=530&hash=209A8D44F4A71D4696E64E7F42A22F7A0081B962"
     },
     {
-        "name": "Nail 2",
-        "price": "$2.00",
-        "description": "test",
-        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
+        "name": "urban jungle",
+        "price": "$9.00",
+        "description": "irresistible alabaster orchid",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/whites/852675482366/ESSIE-enamel-urban-jungle-pack-shot.jpg?h=530&hash=291A5FC2F20A723462B3CEA8508AB285FD2F8EA4"
     },
     {
-        "name": "Nail 3",
-        "price": "$100.00",
-        "description": "test",
-        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
+        "name": "all daisy long",
+        "price": "$9.00",
+        "description": "a flowery white nail polish with crisp jade green and rosy pink iridescence. (shimmer)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/whites/095008029009/ESSIE-enamel-all-daisy-long-pack-shot-tbc.jpg?h=530&hash=C61FDE565FD55D025F7E9EFE77E309914E257A79"
+    },
+    {
+        "name": "let it blow",
+        "price": "$9.00",
+        "description": "a crisp, cool winter white nail polish (glitter)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/enamels/whites/Let-It-Bow-2019/ESSIE-winter-2019-let-it-bow-front.jpg?h=530&hash=16865600DBB7739834240311DAB9E6AC3696A68F"
+    },
+    {
+        "name": "mind-full medtation",
+        "price": "$9.00",
+        "description": "a dusky apricot beige nude nail polish (cream)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/nudes/mind-full-meditation/ESSIE-enamel-mind-full-meditation-pack-shot.jpg?h=530&hash=3CEDC0FA503D4EF1C2404EA9F77A151A8A1C98DE"
+    },
+    {
+        "name": "adore-a-ball",
+        "price": "$9.00",
+        "description": "a sheer soft pink, perfect for a french manicure.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/sheers/095008000183/ESSIE-enamel-adore-a-ball-pack-shot.jpg?h=530&hash=5F73419D1CEFFDE29F1E34B33BFF885CD06C917A"
+    },
+    {
+        "name": "don't be salty",
+        "price": "$9.00",
+        "description": "a sweet neon peachy nude nail polish with a demi-matte finish",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/nudes/095008028811/ESSIE-enamel-don_t-be-salty-pack-shot.jpg?h=530&hash=10C51E2DEA700CE2B27370511852F7F4396299D4"
+    },
+    {
+        "name": "in full swing",
+        "price": "$9.00",
+        "description": "a glistening sandy beige nail polish (shimmer)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/nudes/in-full-swing/ESSIE-enamel-summer-2019-in-full-swing-front.jpg?h=530&hash=B2718784DD63BD7A96508ADD815BFE49F5921E75"
+    },
+    {
+        "name": "air spun fun",
+        "price": "$9.00",
+        "description": "a muted cotton-candy-pink nail polish.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/ferris-of-them-all-2021/ESSIE-enamel-carnival-daze-air-spun-fun-front_530.jpg?h=530&hash=8664A99C8894C3C3CCAE0FC0151B5A4DC8CD7C9F"
+    },
+    {
+        "name": "adore-a-ball",
+        "price": "$9.00",
+        "description": "a sheer soft pink, perfect for a french manicure.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/nudes/stirring_secrets/ESSIE-enamel-spring-2019-stirring-secrets-front.jpg?h=530&hash=932AC2B72790849B62618653114CBBA7CA052FA2"
+    },
+    {
+        "name": "polar-izing",
+        "price": "$9.00",
+        "description": "a magnetic glacier light pink shimmer nail polish",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/metallics-and-glitters/polar-izing/ESSIE-enamel-polar-izing-pack-shot.jpg?h=530&hash=314CA903F8FFCF0517F5EBD8CBCB948E7187BCC7"
+    },
+    {
+        "name": "flying solo",
+        "price": "$9.00",
+        "description": "mid-tone, creamy pink nail polish",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/collections/flying-solo/flying-solo/ESSIE-enamel-flying-solo-front.jpg?h=530&hash=452313B168FDC9BDFA606661766D23DD51F85ECE"
+    },
+    {
+        "name": "tart deco",
+        "price": "$9.00",
+        "description": "a dreamy coral with an artistic burst of color.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Corals/095008000817/ESSIE-enamel-tart-deco-pack-shot.jpg?h=530&hash=4DE5FBD74C7AFDE58412ACDB4F391D6DB00EC55C"
+    },
+    {
+        "name": "love-all game",
+        "price": "$9.00",
+        "description": "a vibrant, neon coral nail polish with pink undertones (semi-matte)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/CA/products_nailpolish_hd/enamels/Corals/Set-in-sandstone/ESSIE-enamel-set-in-sandstone-front530px.jpg?h=530&hash=3457001AEAD45AC8EF2381FEF147F127CAF1B6D6"
+    },
+    {
+        "name": "coral coast",
+        "price": "$9.00",
+        "description": "a glittering coral peach nail polish (shimmer)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Corals/095008028835/ESSIE-enamel-coral-coast-pack-shot.jpg?h=530&hash=B8ADDC732D8DBC5D4D92A7A631C7E8624B673C2B"
+    },
+    {
+        "name": "don't kid yoursself",
+        "price": "$5.00",
+        "description": "a bright coral nail polish with red undertones.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/corals/donot-kid-yourself/ESSIE-enamel-winter-2021-dont-kid-yourself-front-530.jpg?h=530&hash=D8ED22AD7810392F62E013E069819387BEB21CDE"
+    },
+    {
+        "name": "russian rouette",
+        "price": "$9.00",
+        "description": "a classic bright red cream with subtle orange undertones.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Reds/095008000749/ESSIE-enamel-russian-roulette-pack-shot.jpg?h=530&hash=0036DC884955333B3C47F308CB68E4D3335CE2A6"
+    },
+    {
+        "name": "toy to the world",
+        "price": "$5.00",
+        "description": "a vibrant coral red nail polish with pink undertones",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/reds/toy-to-the-world/ESSIE-enamel-winter-2021-toy-to-the-world-front-530.jpg?h=530&hash=C99F1CFD89E6F1712EF084663F73C5560F36E18B"
+    },
+    {
+        "name": "fishnet stockings",
+        "price": "$9.00",
+        "description": "a spicy dark creme red.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Reds/095008000671/ESSIE-enamel-fishnet-stockings-pack-shot.jpg?h=530&hash=B8C2C0E5426D5F7A11B274F1DDFBE77504B50904"
+    },
+    {
+        "name": "ace of shades",
+        "price": "$9.00",
+        "description": "a deep burgundy red nail polish with a velvet matte finish (matte)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/reds/ace-of-shades/ESSIE-enamel-game-theory-ace-of-shades-front.jpg?h=530&hash=93F36AEBD74507377417DD52FDA6DA64071B4B53"
+    },
+    {
+        "name": "ruffle your petals",
+        "price": "$9.00",
+        "description": "soft creamy lilac nail polish (cream)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/enamels/Purples/ruffle-your-petals/ESSIE-enamel-midsummer-2020-ruffle-your-petals-front.png?h=530&hash=BFAF0A190A7A51F5D7B2ABCC4760D032EC130D5E"
+    },
+    {
+        "name": "worth the tassel",
+        "price": "$5.00",
+        "description": "a bright and playful purple nail polish",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/enamels/Purples/worth-the-tassel/ESSIE-enamel-summer-2020-worth-the-tassel-front.jpg?h=530&hash=D1AAD60E4F40E3F6E8EE5751359F75345B2F3D1D"
+    },
+    {
+        "name": "kimono-over",
+        "price": "$5.00",
+        "description": "inviting damson plum",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Purples/095008023212/ESSIE-enamel-kimono-over-pack-shot.jpg?h=530&hash=B7BFD1DA79A628C690B03259E043078B73AB9D21"
+    },
+    {
+        "name": "luxedo",
+        "price": "$9.00",
+        "description": "suit up in this deepest plum and boldly go where no man has gone before.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Purples/80044000075/ESSIE-enamel-luxedo-pack-shot.jpg?h=530&hash=0E703D430B0E829F1C4526ED21FB8062BDE344E7"
+    },
+    {
+        "name": "find me an oasis",
+        "price": "$5.00",
+        "description": "refreshing ice blue",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008012872/ESSIE-enamel-find-me-an-oasis-pack-shot.jpg?h=530&hash=37FDD1C77759BEFA8E546BF49BC1BCBF53FCD94C"
+    },
+    {
+        "name": "salt water happy",
+        "price": "$9.00",
+        "description": "sugar-sweet atlantic blue",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/884486224507/ESSIE-enamel-salt-water-happy-pack-shot.jpg?h=530&hash=7B82D3A319FE479F4AE82B31CC94E3EB53043366"
+    },
+    {
+        "name": "take the lead",
+        "price": "$9.00",
+        "description": "a vivid neon sky blue nail polish",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/blues/take-the-lead/ESSIE-enamel-summer-2019-take-the-lead-front.jpg?h=530&hash=A219F3DB1B00CE9555562643BB7D6F5A5F35782C"
+    },
+    {
+        "name": "feelin' amped'",
+        "price": "$9.00",
+        "description": "a deep, royal blue nail polish with yellow undertones",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/fall-2021/fall2021/Products/feelin-amped/ESSIE-enamel-feelin-amped-front-530.jpg?h=530&hash=240218981270E728DFED5A2106AC47290ACB149A"
+    },
+    {
+        "name": "seas the day",
+        "price": "$9.00",
+        "description": "a mint sorbet nail polish perfect for a manicure or pedicure",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/enamels/Greens/seas-the-day-new/ESSIE-enamel-sunny-business-collection-seas-the-day-front.jpg?h=530&hash=5D371C2FD6EA0E0C14E06288C920F588D35DF4FF"
+    },
+    {
+        "name": "mojito madness",
+        "price": "$9.00",
+        "description": "a fun-loving, lime green.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Greens/095008010366/ESSIE-enamel-mojito-madness-pack-shot.jpg?h=530&hash=3C94537DEE20F7EA2B162572E6517E1735E0C294"
+    }, 
+    {
+        "name": "win me over",
+        "price": "$9.00",
+        "description": "a muted khaki-green nail polish with yellow undertones",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/ferris-of-them-all-2021/ESSIE-enamel-carnival-daze-win-me-over-front_530.jpg?h=530&hash=F9ED0BF079488DDDAB7F7CB07BE0CC140E726F67"
+    },
+    {
+        "name": "off tropic",
+        "price": "$9.00",
+        "description": "lush grove green",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Greens/095008023182/ESSIE-enamel-off-tropic-pack-shot.jpg?h=530&hash=FAF90E1CEF5632FB981430A96351442DC5D780AF"
+    }, 
+    {
+        "name": "sunny business",
+        "price": "$9.00",
+        "description": "a lemony yellow nail polish perfect for a manicure or pedicure",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/enamels/Yellows/sunny-business-new/ESSIE-enamel-sunny-business-collection-sunny-business-front.jpg?h=530&hash=A2FFFDB8BC7FFDC8EE701671BC9950E88CF4C1B5"
+    }, 
+    {
+        "name": "all fun & games",
+        "price": "$9.00",
+        "description": "a faded light yellow nail polish.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/ferris-of-them-all-2021/ESSIE-enamel-carnival-daze-all-fun-and-games-front_530.jpg?h=530&hash=FE4CB070FA273349F9FA4659B7B3C0A9CFC7C974"
+    }, 
+    {
+        "name": "check your baggage",
+        "price": "$9.00",
+        "description": "creamy bright yellow nail polish with red undertones",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/collections/flying-solo/check-your-baggage/ESSIE-enamel-check-your-baggage-front.jpg?h=530&hash=6B753406D8B5FF52E8B27792A2D4B3170B6F9822"
+    }, 
+    {
+        "name": "fall for nyc",
+        "price": "$9.00",
+        "description": "a mustard yellow nail polish with marigold highlights (cream)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Yellows/095008030166/ESSIE-enamel-fall-for-nyc-pack-shot.jpg?h=530&hash=3C4824EEF84979FC9542519B1C1E35855CF17874"
+    },
+    {
+        "name": "no place like chrome",
+        "price": "$9.00",
+        "description": "a memorable silver metallic.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/metallics-and-glitters/095008003818/ESSIE-enamel-no-place-like-chrome-pack-shot.jpg?h=530&hash=75C548FE13FE3B398C2400EEB73C59C1FEF14FA5"
+    },
+    {
+        "name": "roll with it",
+        "price": "$9.00",
+        "description": "a glitzy silver taupe effect nail polish with strawberry flip disco pearl effect.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/MASTER/DMI/products_nailpolish_hd/enamels/grays/roll-with-it/ESSIE-enamel-roll-with-it-front.jpg?h=530&hash=77001109BB7E8F339FB8E9094E03EA3005BB1A91"
+    },
+    {
+        "name": "beyond crazy",
+        "price": "$9.00",
+        "description": "a decadent silvery gold glitter.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/metallics-and-glitters/095008003672/ESSIE-enamel-beyond-cozy-pack-shot.jpg?h=530&hash=01363076C4F72A97121AB30EEA374F25A35DD6A5"
+    },
+    {
+        "name": "stop look and glisten",
+        "price": "$9.00",
+        "description": "a holographic charcoal gray metallic nail polish (metallic)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/CA/products_nailpolish_hd/enamels/grays/Stop-look-and-glisten/ESSIE-enamel-stop-look-and-glisten-front530px.jpg?h=530&hash=E725C620708D6239A6B469CDF19C9AC3484D3E68"
+    },
+    {
+        "name": "generation zen",
+        "price": "$9.00",
+        "description": "a tranquil mauve taupe gray nail polish (cream)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/grays/generation-zen/ESSIE-enamel-generation-zen-pack-shot.jpg?h=530&hash=9100D05AF0A625819DF009B83915049FA8FBFF09"
+    },
+    {
+        "name": "over the edge",
+        "price": "$9.00",
+        "description": "a dramatic metallic midnight silver.",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/grays/80624000075/ESSIE-enamel-over-the-edge-pack-shot.jpg?h=530&hash=D4BB5C071027064A6AA861784DC88908AACEB0B3"
+    },
+    {
+        "name": "winning streak",
+        "price": "$9.00",
+        "description": "dark purple with a grayish tone",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/grays/095008026664/ESSIE-enamel-winning-streak-pack-shot.jpg?h=530&hash=A815683C25FC0F1B63F83759D8454AEB8D0A9AF6"
+    },
+    {
+        "name": "on mute",
+        "price": "$9.00",
+        "description": "a hushed charcoal gray nail polish (cream)",
+        "image": "https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish/enamels/grays/on-mute/ESSIE-enamel-on-mute-pack-shot.jpg?h=530&hash=71EC7AA0494EB8D2E82B5334C808AB1712D39736"
     }
+
+
 ]

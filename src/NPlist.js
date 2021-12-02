@@ -5,6 +5,8 @@ import data from './data'
 
 function NPList() {
   return (
+    <div>
+      <h2>Shop all Nail Polishes</h2>
     <div className='POPOSList'>
       {data.map((item, index) => (
         <NPspace
@@ -59,6 +61,7 @@ function NPList() {
         description='This is a sample description'
         image="https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
       /> */}
+    </div>
     </div>
 
   )

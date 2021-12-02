@@ -1,3 +1,4 @@
+import './NPspace.css'
 function NPspace(props) {
     const { name, image, description, id } = props
     const url = image
@@ -7,7 +8,7 @@ function NPspace(props) {
     }
 
     return (
-      <div onClick={openDetail}>
+      <div className='Space' onClick={openDetail}>
         <img
           src={url}
           width="300"
@@ -15,6 +16,7 @@ function NPspace(props) {
           alt="Hello"
         />
         <h1>{name}</h1>
+        <button>BUY IT NOW</button>
       </div>
     )
   }

@@ -1,0 +1,22 @@
+.Space {
+    margin-bottom: 50px;
+}
+.Space h1 {
+    font-family: 'Times New Roman';
+    font-size: larger;
+}
+.Space button {
+        margin-top: 10px;
+        background: rgb(12, 130, 167);
+        border: none;
+        color: rgb(255, 255, 255);
+        width: 150px;
+        height: 30px;
+        font-size: 15px;
+}
+
+.Space button:hover {
+    cursor: pointer;
+    background: rgb(8, 96, 122);
+
+}
