@@ -2,8 +2,10 @@ import React from 'react';
 import NPspace from './NPspace';
 import './NPlist.css';
 import data from './data'
+import { useState } from 'react'
 
 function NPList() {
+  const [ query, setQuery ] = useState('')
   return (
     <div>
       <h2>Shop all Nail Polishes</h2>
@@ -16,6 +18,7 @@ function NPList() {
           price={item.price}
           id={item.id}
         />
+        
       ))}
       {/* <NPspace
         name="Red Nailpolish"
@@ -61,6 +64,14 @@ function NPList() {
         description='This is a sample description'
         image="https://www.essie.com/-/media/Project/loreal/brand-sites/essie/Americas/US/products_nailpolish_hd/enamels/Blues/095008007861/ESSIE-enamel-bikini-so-teeny-pack-shot.jpg"
       /> */}
+      <form>
+				<input
+					value={query}
+					placeholder="search"
+					onChange={(e) => setQuery(e.target.value)}
+				/>
+				<button type="submit">Submit</button>
+			</form>
     </div>
     </div>
 
